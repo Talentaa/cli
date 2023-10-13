@@ -1,7 +1,8 @@
 [workspace]
 members = [
   "echor",
-  "catr"
+  "catr",
+  "headr"
 ]
 
 

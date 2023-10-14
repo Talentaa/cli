@@ -2,7 +2,8 @@
 members = [
   "echor",
   "catr",
-  "headr"
+  "headr",
+  "wcr"
 ]
 
 

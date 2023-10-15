@@ -3,7 +3,7 @@ members = [
   "echor",
   "catr",
   "headr",
-  "wcr"
+  "wcr",
+  "uniqr"
 ]
-
 
